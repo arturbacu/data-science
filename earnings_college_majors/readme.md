@@ -1,4 +1,4 @@
-## Visualizintg Earnings Based on College Majors
+## Visualizing Earnings Based on College Majors
 
 # Tools:
 * iPython/Jupyter Notebooks
