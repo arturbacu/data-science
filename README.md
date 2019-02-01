@@ -5,3 +5,4 @@ Data Science projects
 ## eBay Car Sales
 ## Earnings Based on College Majors
 ## Visualizing The Gender Gap In College Degrees
+## NYC High School SAT Scores
