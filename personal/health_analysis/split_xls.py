@@ -110,6 +110,7 @@ def insert_water(t_main_sheet, t_totals_sheet, t_row):
 
 if __name__ == "__main__":
     # Load existing workbook from MyPlate website's export
+    # TODO: Take file input from command line instead of hardcoding this
     main_workbook = load_workbook(filename="MyPlate-Export-2019-10-14_detailed.xlsx")
     # Create new workbooks for data that will be split
     meals = Workbook()
