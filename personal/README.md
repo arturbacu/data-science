@@ -10,6 +10,6 @@ This is a project to analyze my own health data which I provided to the LiveStro
     2. Choose "Detailed" for "Report Type"
     3. Choose "Excel" for "Export Format"
 2. Use Excel or a utility to convert the .xls from step 1 to .xlsx
-3. Run the split script to do a first pass of splitting the raw exported data into three tables for the Meals section, Fitness section, and Totals section.
+3. Run the split script to do a first pass of splitting the raw exported data into five files for the Meals, Fitness, Totals, Weight, and Water sections.
 `python split_xls.py INPUT_FILE.xlsx`
 4. __________
